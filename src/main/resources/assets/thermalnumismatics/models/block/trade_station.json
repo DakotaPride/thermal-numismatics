@@ -1,0 +1,6 @@
+{
+  "parent": "thermal:block/machine_base",
+  "textures": {
+    "north": "thermalnumismatics:block/machines/machine_trade_station"
+  }
+}

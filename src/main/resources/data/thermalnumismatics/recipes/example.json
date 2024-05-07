@@ -1,0 +1,18 @@
+{
+  "type": "thermalnumismatics:trade_station",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:apple",
+      "count": 4
+    }
+  ],
+  "energy": 2400
+}

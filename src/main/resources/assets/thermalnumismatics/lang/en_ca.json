@@ -1,0 +1,7 @@
+{
+  "block.thermalnumismatics.trade_station": "Trade Station",
+
+  "info.thermalnumismatics.machine_press.0": "Trades and sells items",
+  "info.thermalnumismatics.machine_press.1": "Can use a given item, typically a trading or selling card ID.",
+  "info.thermalnumismatics.machine_press.2": "Stonks!"
+}
