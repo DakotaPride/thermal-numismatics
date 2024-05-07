@@ -3,8 +3,10 @@
 ## Inputs
 
 The first input of the recipe is what you are trading/selling for an output.<br>In the provided example recipe, this item is an Emerald.<br><br>The second input, underneath the first slot, is where you can choose to place a matching catalyst. This is controlled via an item tag - "thermalnumismatics:trade_station/allowed_catalysts"
-- You are <strong>required</strong> to have your "catalyst" item in this item tag, otherwise it will be consumed. Of course, if you wish for it to be consumed upon usage, feel free to ignore this item tag.
-[]()
+- You are <strong>required</strong> to have your "catalyst" item in this item tag, otherwise it will be consumed. Of course, if you wish for it to be consumed upon usage, feel free to ignore this item tag.<br>
+
+The secondary input, in the case of the provided example recipe, is a book.<br>
+[Default item tag can be found here - It can be emptied or cleared of its entries via datapack for a modpack or other project](https://github.com/DakotaPride/thermal-numismatics/blob/master/src/main/resources/data/thermalnumismatics/tags/item/trade_station/allowed_catalysts.json)
 
 ## Outputs
 
