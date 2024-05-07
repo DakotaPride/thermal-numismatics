@@ -5,7 +5,7 @@ license = "MIT"
 
 [[mods]]
 modId = "thermalnumismatics"
-version = "0.1.0"
+version = "0.1.2"
 displayName = "Thermal Numismatics"
 # displayURL = "https://www.curseforge.com/minecraft/mc-mods/thermalnumismatics"
 logoFile="thermalnumismatics.png"
