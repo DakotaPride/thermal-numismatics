@@ -4,6 +4,7 @@
 
 The first input of the recipe is what you are trading/selling for an output.<br>In the provided example recipe, this item is an Emerald.<br><br>The second input, underneath the first slot, is where you can choose to place a matching catalyst. This is controlled via an item tag - "thermalnumismatics:trade_station/allowed_catalysts"
 - You are <strong>required</strong> to have your "catalyst" item in this item tag, otherwise it will be consumed. Of course, if you wish for it to be consumed upon usage, feel free to ignore this item tag.
+[]()
 
 ## Outputs
 
